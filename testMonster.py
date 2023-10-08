@@ -3,6 +3,6 @@
 #
 from monsters import *
 
-cookie = Monster("Cookie", "Blue")
-
+cookie = Monster("Cookie Monster", "Blue")
+grouch = Monster("Oscar the Grouch", "Green")
 print(cookie)
